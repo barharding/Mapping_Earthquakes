@@ -4,10 +4,12 @@ This solution displays a world map and overlays the tectonic and earthquake data
 
 Options: Dark
 
+![Dark](/dark.png)
 
 Option: Satellite
 
+![Satellite](satellite.png)
 
 Option: Streets
 
-
+![Streets](/streets.png)
